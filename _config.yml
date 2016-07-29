@@ -1,0 +1,14 @@
+layout_spectrum: 0.9072512
+color:
+  saturation: 0.8145025
+  lightness: 0.7934233
+  brandStrength: 0.1936909
+  brandColors:
+    - '#FFFFFF'
+    - '#060709'
+    - '#71695E'
+    - '#C7BBA3'
+    - '#473436'
+  rhythmicContrast: 0.6416526
+typography_spectrum: 0.682955
+name: TheBodyAcademy
